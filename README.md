@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Application+Penetration+Tester;Ethical+Hacker+%7C+Security+Researcher;OWASP+Top+10+Specialist;Bug+Bounty+Hunter+%7C+CTF+Player)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Application+Penetration+Tester;Ethical+Hacker+%7C+Security+Researcher;OWASP+Top+10;Bug+Bounty+Hunter+%7C+CTF+Player)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shreyasdesai.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-desai)
