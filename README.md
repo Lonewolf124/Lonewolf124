@@ -1,4 +1,4 @@
-# 🛡️ Shreyas Desai | Web Application Penetration Tester & Ethical Hacker
+# 🛡️ Shreyas Desai
 
 <div align="center">
 
