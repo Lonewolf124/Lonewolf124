@@ -97,7 +97,7 @@ const shreyasDesai = {
 - 🏆 **Top 10 in National CyberShield Hackathon (750+ teams)**
 
 ### 🤖 SyncFlow - Offline AI Assistant  
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Lonewolf124/SyncFlow)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AryanMishra1789/Hackcrux-Project/tree/main)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=flat-square)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
