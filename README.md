@@ -19,11 +19,12 @@
 
 ## `> cat about.md`
 
-I'm a third-year B.Tech student (Cybersecurity and Digital Forensics, CGPA 9.0) who likes to break things on the offensive side and then work out how to detect them on the defensive side.
+I'm a third-year B.Tech student (Cybersecurity and Digital Forensics, CGPA 9.0) working across the security lifecycle: finding weaknesses, detecting attacks, and managing the risk around them. I'm open to **SOC analyst, GRC and VAPT** roles and internships.
 
+- **Detection and monitoring (SOC):** Wazuh + Sysmon detection lab on Azure, six attack techniques mapped to MITRE ATT&CK, a custom detection rule, incident reports and response playbooks. Splunk (SPL), SIEM, EDR, IDS/IPS and Wireshark.
+- **Governance, risk and compliance (GRC):** ISO 27001 fundamentals, risk assessment, risk analysis and identification, risk registers, and risk-rated reporting with remediation guidance. SC-900 certified.
 - **Offensive:** VAPT internship at Restaurant Brands Asia (Burger King India). 15 internal host ranges, 20+ assets, 20+ vulnerabilities reported (3 critical including 1 RCE). Active Directory misconfiguration testing.
 - **Bug bounty:** 20+ programs on Intigriti and HackerOne, 3 Hall of Fame entries, a $100 bounty, Top 10 on HackerOne's Gogo VDP leaderboard.
-- **Defensive:** Wazuh + Sysmon detection lab on Azure, six attack techniques mapped to MITRE ATT&CK, one custom detection rule.
 - **Research:** co-authored a peer-reviewed paper (ICAMS 2025, Springer Nature) on secure data transfer with ECC + AES-256-GCM.
 - **Community:** Technical Team Lead, WiCyS VIT Bhopal, supporting a 160+ participant hackathon.
 
