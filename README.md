@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Shreyas Desai - Cybersecurity" width="100%"/>
+<img src="assets/header-v2.svg" alt="Shreyas Desai - Cybersecurity" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Lonewolf124&label=PROFILE+VIEWS&color=00f0ff&style=flat-square&labelColor=05080f" alt="profile views"/>
 
-<img src="assets/terminal.svg" alt="Animated terminal: whoami, focus, certs, achievements" width="90%"/>
+<img src="assets/terminal-v2.svg" alt="Animated terminal: whoami, focus, certs, achievements" width="90%"/>
 
 </div>
 
