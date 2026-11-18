@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="footer">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#05080f"/><stop offset="1" stop-color="#0b1424"/></linearGradient></defs>
+  <rect width="1000" height="110" rx="14" fill="url(#bg)" stroke="#00f0ff" stroke-opacity=".4"/>
+  <path d="M0 70 Q125 40 250 70 T500 70 T750 70 T1000 70 V110 H0 Z" fill="#00f0ff" opacity=".12">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 70 Q125 40 250 70 T500 70 T750 70 T1000 70 V110 H0 Z;M0 70 Q125 100 250 70 T500 70 T750 70 T1000 70 V110 H0 Z;M0 70 Q125 40 250 70 T500 70 T750 70 T1000 70 V110 H0 Z"/></path>
+  <path d="M0 82 Q125 58 250 82 T500 82 T750 82 T1000 82 V110 H0 Z" fill="#00ff9c" opacity=".12">
+    <animate attributeName="d" dur="4.5s" repeatCount="indefinite" values="M0 82 Q125 106 250 82 T500 82 T750 82 T1000 82 V110 H0 Z;M0 82 Q125 58 250 82 T500 82 T750 82 T1000 82 V110 H0 Z;M0 82 Q125 106 250 82 T500 82 T750 82 T1000 82 V110 H0 Z"/></path>
+  <text x="500" y="46" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#00f0ff">"Stay curious. Stay ethical. Report responsibly."</text>
+  <text x="500" y="68" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#64748b">// thanks for stopping by, connection closed [exit 0]</text>
+</svg>
